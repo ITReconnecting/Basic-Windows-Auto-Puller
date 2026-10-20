@@ -1,0 +1,5 @@
+# Offset  Type     Test Value      Message String
+0         string   \x89PNG         PNG _image_ data
+0         string   GIF8            GIF _image_ data
+0         string   BM              PC bitmap data _image_
+0         beshort  0xffd8          JPEG _image_ data
